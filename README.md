@@ -3,7 +3,6 @@
 - 👀 I’m interested in web development, programming, machine learning, and FPGAs
 - 🎓 I’m currently pursuing the Bachelor of Applied Science [Computer Engineering] at the University of British Columbia [UBC]
 - 🧩 I enjoy collaborating with other coders on interesting coding applications and programs
-- ⚽️ I love playing and watching football!
 
 ## Connect with me via my LinkedIn
 
