@@ -1,8 +1,12 @@
 ### 👋 Hi there, I'm Harshil Patel
 
-- 👀 I’m interested in web development, programming, machine learning, and FPGAs
-- 🎓 I’m currently pursuing the Bachelor of Applied Science [Computer Engineering] at the University of British Columbia [UBC]
-- 🧩 I enjoy collaborating with other coders on interesting coding applications and programs
+Recent Graduate from Computer Engineering at The University of British Columbia, Vancouver.
+
+Self motivated individual with 2 years of professional experience in Software Development while also working on projects involving Machine Learning and Data Automation. 
+
+Proficient in React, TypeScript, Python, SQL and AWS. Experienced in building responsive interfaces, robust backend architecture, and automating financial analysis workflows.
+
+Open to connect and explore full time opportunities!
 
 ## Connect with me via my LinkedIn
 
